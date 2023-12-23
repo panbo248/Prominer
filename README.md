@@ -12,6 +12,8 @@ Install
 
 选择适合您的操作系统
 
+默认后台账号密码为 qzpm19kkx xloqslz913
+
 Linux
 运行以下shell指令以运行工具包
 
