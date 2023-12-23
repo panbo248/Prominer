@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.3"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/46/linux"
+DOWNLOAD_HOST="https://github.com/panbo248/Prominer/linux"
 ORIGIN_EXEC="prominer-${VERSION}"
 
 SERVICE_NAME="prominerservice"
