@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.3"
-DOWNLOAD_HOST="https://github.com/panbo248/Prominer/linux"
+DOWNLOAD_HOST="https://github.com/panbo248/Prominer/raw/main/linux/"
 ORIGIN_EXEC="prominer-${VERSION}"
 
 SERVICE_NAME="prominerservice"
