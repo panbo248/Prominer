@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.1.5"
+VERSION="3.9.94"
 DOWNLOAD_HOST="https://github.com/panbo248/Prominer/raw/main/linux/"
 ORIGIN_EXEC="prominer-${VERSION}"
 
